@@ -6,7 +6,7 @@
     <strong>Time Limit</strong>
 </h1>
 <h3 align="center">
-    <p>Limit computer usage(screentime) in Python.</p>
+    <p>Limit computer usage(screentime) in C#.</p>
 </h3>
 
 <hr>
