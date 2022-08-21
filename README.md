@@ -14,7 +14,6 @@
 ### Contents
 - [Usage](#usage)
 - [Step by step](#step-by-step)
-- [Download](#download)
 
 <hr>
 
@@ -57,6 +56,3 @@ Set WshShell = Nothing
 6. Save the file and close Notepad.
 7. Rename the text file to VB Script. For example 'time.vb'. Thats it. Next time you restart your computer our time counter will start invisibly.
 
-### Download
-
-Download executable from [here](https://github.com/mmeest/Countdown/raw/main/bin/Debug/net5.0/app.exe)
