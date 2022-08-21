@@ -14,6 +14,7 @@
 ### Contents
 - [Usage](#usage)
 - [Step by step](#step-by-step)
+- [Download](#download)
 
 <hr>
 
