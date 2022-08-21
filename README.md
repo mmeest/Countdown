@@ -58,4 +58,4 @@ Set WshShell = Nothing
 
 ### Download
 
-Download executable from [link](https://github.com/mmeest/Countdown/raw/main/bin/Debug/net5.0/app.exe)
+Download executable from [here](https://github.com/mmeest/Countdown/raw/main/bin/Debug/net5.0/app.exe)
