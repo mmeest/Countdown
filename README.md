@@ -23,7 +23,7 @@ This program is designed to limit daily computer usage or screen time.
 Current version is limiting daily time in 180 minutes or 3 hours.
 When time limit runs out then Computer shuts down.
 Program keeps track daily and resets when date changes.
-Computer can be restarted when counter is on. On startup time tracking starts wehre it was left on last run.
+Computer can be restarted when counter is on. On startup time tracking starts wehre it was left on last run. If current day's time has run out and you start your PC it will shut down right after start.
 
 <hr>
 
