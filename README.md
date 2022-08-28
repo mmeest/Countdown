@@ -54,5 +54,5 @@ WshShell.Run chr(34) & "time.exe" & Chr(34), 0
 Set WshShell = Nothing
 ```
 6. Save the file with ANSI encoding or it may give error on use. Wrong encoded characters can be veiwed for example on hex editor.
-7. Rename the text file to VB Script. For example 'time.vb'. Thats it. Next time you restart your computer our time counter will start invisibly.
+7. Rename the text file to VB Script. For example 'time.vbs'. Thats it. Next time you restart your computer our time counter will start invisibly.
 
